@@ -1,5 +1,5 @@
 {
-  "name": "boilerplatemongoose",
+  "name": "healthlinkbackend",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanyaSantos/boilerPlateMongoose.git"
+    "url": "git+https://github.com/DanyaSantos/healthLinkBackend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanyaSantos/boilerPlateMongoose/issues"
+    "url": "https://github.com/DanyaSantos/healthLinkBackend/issues"
   },
-  "homepage": "https://github.com/DanyaSantos/boilerPlateMongoose#readme",
+  "homepage": "https://github.com/DanyaSantos/healthLinkBackend#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
